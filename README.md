@@ -27,8 +27,7 @@ with its frameworks. I have a strong knowledge in Statistical Mathematics end en
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## About Me  
 
 - 🌱 I’m currently learning JavaScript and Deep Learning Frameworks  
   
@@ -36,7 +35,7 @@ with its frameworks. I have a strong knowledge in Statistical Mathematics end en
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
+
 
 
 
@@ -71,6 +70,7 @@ with its frameworks. I have a strong knowledge in Statistical Mathematics end en
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiNikhil26&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
+<img src="https://raw.githubusercontent.com/SaiNikhil26/SaiNikhil26/output/snake.svg" alt="Snake animation" />
 
 <br/>  
 
@@ -86,4 +86,3 @@ with its frameworks. I have a strong knowledge in Statistical Mathematics end en
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
