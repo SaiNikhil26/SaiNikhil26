@@ -70,7 +70,6 @@ with its frameworks. I have a strong knowledge in Statistical Mathematics end en
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiNikhil26&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-<img src="https://raw.githubusercontent.com/SaiNikhil26/SaiNikhil26/output/snake.svg" alt="Snake animation" />
 
 <br/>  
 
