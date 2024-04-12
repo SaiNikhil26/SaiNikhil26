@@ -18,10 +18,7 @@
 
 
 ### Glad to see you here!  
-I am CSE Undergrad at VIT Chennai. Aspiring Machine Learning Engineer.
-
-I am a Data Science and Machine Learning Enthusiast with good proficiency in Java, SQL and Python
-with its frameworks. I have a strong knowledge in Statistical Mathematics end enjoy modelling large Data Sets with maximum accuracy. I also have a good knowledge in Problem solving and Data Structures and Algorithms  
+I am CSE Undergra at VIT Chennai. Aspiring Software Developer.
   
 
 <br/>  
@@ -29,10 +26,8 @@ with its frameworks. I have a strong knowledge in Statistical Mathematics end en
 
 ## About Me  
 
-- 🌱 I’m currently learning JavaScript and Deep Learning Frameworks  
-  
+- 🌱 I’m currently into exploring Data Privacy and Distributed Deep Learning Frameworks  
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
 
